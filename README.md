@@ -90,3 +90,16 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumni (MTech AIDSE)**, **AI Engine
 <p align="center">
   🚀 Thanks for visiting! Let’s innovate together.
 </p>
+
+
+## 📬 Contact
+
+Maintained by **Balaji Kudumu**  
+If you use this project in your research, please give appropriate credit.
+
+---
+
+## 📄 License
+
+MIT License - see `LICENSE` file for details.
+---
