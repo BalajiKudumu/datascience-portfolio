@@ -91,6 +91,13 @@ Hi, I'm **Balaji Kudumu** — an **IIT Patna Alumni (MTech AIDSE)**, **AI Engine
   🚀 Thanks for visiting! Let’s innovate together.
 </p>
 
+## Steps to be followed
+
+1. Create a repository with your GitHub username.  
+2. Copy this README.md file and make related changes as per your skills and domain knowledge.  
+3. Replace my username in the README.md file with your GitHub username.  
+  ### Let me know if you need any assistance.
+
 
 ## 📬 Contact
 
