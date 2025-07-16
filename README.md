@@ -3,7 +3,7 @@
 <h1>👋 Welcome to My GitHub Profile!</h1>
 
 <!-- Updated Typing SVG animation with color -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+MTech+IIT+Patna+%7C+LLM+Developer;Automation+Expert+%7C+Selenium+%7C+Cloud+Deployments;Python+%7C+Django+%7C+Transformers+%7C+Flask" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+LLM+Developer;Automation+Expert+%7C+Selenium+%7C+Cloud+Deployments;Python+%7C+Django+%7C+Transformers+%7C+Flask" alt="Typing SVG" />
 
 <!-- Professional AI-themed animation -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="AI Animation" />
