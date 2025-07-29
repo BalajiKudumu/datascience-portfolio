@@ -16,22 +16,22 @@
 
 Hi, I'm **Balaji Kudumu** — an **AI Engineer**, and **Data Engineer** with a passion for delivering real-world impact through artificial intelligence.
 
-🔭 I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, delivering innovation across domains including:
-- 💬 Large Language Models (LLMs)
-- 🧠 Deep Learning & Transformers
-- 🧪 AI Research & Automation Tools
-- ⚙️ Salesforce API & Data Pipelines
+I work at the intersection of **Machine Learning**, **NLP**, and **LLMs**, delivering innovation across domains including:
+- Large Language Models (LLMs)
+- Deep Learning & Transformers
+- AI Research & Automation Tools
+- Salesforce API & Data Pipelines
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-- 📧 Email: **Balaji1997.dev@gmail.com**
-- 🧑‍💼 GitHub: [@BalajiKudumu](https://github.com/BalajiKudumu)
+- Email: **Balaji1997.dev@gmail.com**
+- GitHub: [@BalajiKudumu](https://github.com/BalajiKudumu)
 
 ---
 
-## ⚒️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -57,7 +57,7 @@ Hi, I'm **Balaji Kudumu** — an **AI Engineer**, and **Data Engineer** with a p
 
 ---
 
-## 🧠 Languages & Libraries I Use
+## Languages & Libraries I Use
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,github,tensorflow,azure,aws,pytorch,selenium,git,docker,aws,vscode,bash,sqlite,postman,windows,git,anaconda" />
